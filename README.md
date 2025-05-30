@@ -1,16 +1,40 @@
-# GitHub Pages
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+# JARVIS VIRTUAL ASSISTANT USING JAVASCRIPT
+Javascript based Virtual Assistant and interface is made using HTML and CSS.
 
-Hey @Athexhacker!
+Inspired by Siri, the Google Assistant and Alexa, Inertia responses according to user commands. User can give voice command and if that command matches the syntax then desired output is given but if not then it searches the user response on web and returns the same. The response is prodided in the form of speech.
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+# Demo
+For a demo of Inertia AI, visit [JARVIS - A VIRTUAL ASSISTANT]
+# Features
 
-Remember, it's self-paced so feel free to take a break! ☕️
+- It trigger a voice command given by user and return a voice response
+- Date / Time
+- Opening Apps
+- Searching Web
+- Games
+- Jokes 
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Athexhacker/JARVIS-AI/issues/1)
+# commands
 
----
+- hi / hello / hey / how are you / whats up
+- play music / pause music
+- open google / open instagram / open youtube
+- what is / what are / who is / who are + < your query >
+- wikipedia + < your query >
+- time / date
+- open calculator
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+  
+## Contributing
 
+Contributions are always welcome!
+Found a bug? Have a suggestion?
+
+Please submit issues/pull requests if you have feedback or would like to contribute.
+
+  
+# IM JARVIS AI ASSISSTANT DEVELOPED BY ATHEX HACKER
+# CONTACT ME ANY KIND OF ISSUES ABOUT ETHICAL HACKING AND CODING
+# PHONE NUMBER +92347-5549695
+# E-MAIL - athexhacker@gmail.com
